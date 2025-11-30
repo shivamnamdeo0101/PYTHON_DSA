@@ -1,0 +1,3 @@
+#Write gitignore file
+#Need to include .ipynp files only
+*.ipynb_checkpoints
